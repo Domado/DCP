@@ -1,2 +1,1 @@
-
-[![TEST_DCP](test_dcp.png)]
+![TEST_DCP](test_dcp.png)
