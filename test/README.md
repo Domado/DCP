@@ -1,3 +1,4 @@
+# 编译
 g++ -o dcp_test test.cpp \
     -x c dcp.c \
     -x c dcp_scheduler.c \
